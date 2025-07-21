@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey! I'm Osteinn
 
-<!--
-**Osteinn/Osteinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm a **Frontend Developer** passionate about crafting beautiful, responsive, and user-friendly interfaces.
 
-Here are some ideas to get you started:
+💡 Tech Stack:  
+**HTML • CSS • JavaScript • React • Git/GitHub**  
++ basic **PHP** and interest in **UI/UX Design**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 My Portfolio
+
+🔹 **React + Tailwind CSS Version**  
+⚛️ Modern structure, components, styling, and responsiveness  
+👉 [View it →](https://Osteinn.github.io/CV-React)
+
+🔹 **HTML + CSS Version**  
+📄 Clean code, handcrafted layout, minimalist style  
+👉 [View it →](https://Osteinn.github.io/Resume-HTMLandCSS)
+
+---
+
+## 🚀 A Bit About Me
+
+- 🛠 I love building interfaces that are both beautiful and intuitive
+- 🌍 Open to remote or hybrid opportunities
+- 💬 Always curious, learning, and up for a challenge
+- 🔧 Focused on clean code and thoughtful design
+
+---
+
+## 📫 Contact Me
+
+📧 Email: Stenli.lolo@gmail.com  
+🔗 GitHub: [@Osteinn](https://github.com/Osteinn)
